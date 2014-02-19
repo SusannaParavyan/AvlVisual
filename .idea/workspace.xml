@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/AVLTree.java" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392812912153" ignored="false" />
     <file path="/hello.jsp" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392813846668" ignored="false" />
-    <file path="/HelloController.java" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392814080638" ignored="false" />
+    <file path="/HelloController.java" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392814645571" ignored="false" />
     <file path="/AVL.java" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392583158224" ignored="false" />
     <file path="/State.java" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392584491268" ignored="false" />
     <file path="/web.xml" changelist="00b74635-5ce5-45a2-8f18-695332a58d68" time="1392814002402" ignored="false" />
@@ -72,13 +72,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="51" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5682451">
+            <state line="8" column="30" selection-start="279" selection-end="318" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#2523#2532#0" expanded="true" />
-                <element signature="method#getColorImage#0;class#MainController#0" expanded="false" />
+                <element signature="e#2562#2571#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,7 +113,16 @@
       <file leaf-file-name="AVLTree.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVLTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="36" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="5" selection-start="67" selection-end="67" vertical-scroll-proportion="0.2367688">
               <folding />
             </state>
           </provider>
@@ -132,13 +140,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVL.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/State.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVLTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/State.java" />
       </list>
     </option>
   </component>
@@ -237,36 +245,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvlVisualisation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AvlVisualisation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -287,6 +265,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -531,7 +513,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -631,8 +613,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#2523#2532#0" expanded="true" />
-            <element signature="method#getColorImage#0;class#MainController#0" expanded="false" />
+            <element signature="e#2562#2571#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -689,27 +670,6 @@
         <state line="23" column="34" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.36330935" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVLTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="36" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="5" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-9.538462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="26" selection-start="1346" selection-end="1346" vertical-scroll-proportion="1.2774566">
@@ -735,11 +695,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5682451">
+        <state line="8" column="30" selection-start="279" selection-end="318" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#2523#2532#0" expanded="true" />
-            <element signature="method#getColorImage#0;class#MainController#0" expanded="false" />
+            <element signature="e#2562#2571#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="5" selection-start="1128" selection-end="1128" vertical-scroll-proportion="-9.538462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="67" selection-end="67" vertical-scroll-proportion="0.2367688">
+          <folding />
         </state>
       </provider>
     </entry>

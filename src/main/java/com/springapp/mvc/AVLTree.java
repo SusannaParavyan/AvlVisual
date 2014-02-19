@@ -2,6 +2,9 @@ package com.springapp.mvc;
 
 import java.util.logging.Logger;
 
+/**
+ * created by Susanna Paravyan
+ */
 public class AVLTree<T extends Comparable<T>> implements Comparable<T> {
     private static AVLTree instance;
 

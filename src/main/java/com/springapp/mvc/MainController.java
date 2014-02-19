@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.servlet.http.HttpServletRequest;
 import java.util.LinkedList;
 
+/**
+ * created by Susanna Paravyan
+ */
 @Controller
 public class MainController {
     AVLTree tree;
